@@ -5,9 +5,10 @@ I am a new developer from Switzerland, currently living in northern Germany.
 
 ### Currently learning: 
 - Boot.dev Backend development
+- Python Backend with Django
 - Microsoft Azure
 - PowerShell
-- Javascript, HTML, CSS
+- Javascript (React), HTML, CSS
 - Networks (CompTIA Network+)
 
 ## Certificates
