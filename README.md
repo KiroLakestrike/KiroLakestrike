@@ -2,13 +2,12 @@
 I am a new developer from Switzerland, currently living in northern Germany. 
 35 Years old, and looking for a better Job, while learning several Computer related skills.
 
-
 ### Currently learning: 
 - Boot.dev Backend development
 - Python Backend with Django
 - Microsoft Azure
 - PowerShell
-- Javascript (React), HTML, CSS
+- Javascript (Angular), HTML, CSS, With the help of Frontend Mentor
 - Networks (CompTIA Network+)
 
 ## Certificates
