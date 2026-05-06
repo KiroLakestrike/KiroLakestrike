@@ -1,16 +1,18 @@
 ## A little bit about me
-I am a new developer from Switzerland, currently living in northern Germany. 
-35 Years old, and looking for a better Job, while learning several Computer related skills.
 
-### Currently learning: 
-- Boot.dev Backend development
-- Python Backend with Django
-- Microsoft Azure
-- PowerShell
-- Javascript (Angular), HTML, CSS, With the help of Frontend Mentor
-- Networks (CompTIA Network+)
+I am a new developer from Switzerland, currently living 
+in northern Germany. 35 Years old, and looking for a Job 
+in Software Development, while constantly upgrading my 
+IT related skills.
+
+## Who is Kiro? 
+
+Kiro is my nickname since elementary school. It came about, 
+because one of my friends at the time, could not pronounce 
+the name Pascal. And it stuck with me since almost 3 decades. 
 
 ## Certificates
+
 Anything thats listed on my [Boot.dev](https://www.boot.dev/u/lakestrike) account.
 
 Udemy:</br>
